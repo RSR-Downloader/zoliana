@@ -111,7 +111,7 @@ RSR_IMG = "https://telegra.ph/file/167b06c04843d14271a93.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them [Prabhasha](t.me/Prabha_sha) , [Inuka](t.me/InukaASiTH)"""
+Support them [RSR](t.me/rsrmusic) , [Channel](t.me/mizolibrary)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
